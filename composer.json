@@ -22,8 +22,7 @@
 		"ijvo/kdyby-doctrine-cache": "dev-master",
 		"ijvo/kdyby-strict-objects": "dev-master",
 		"nette/di": "^3.1",
-		"nette/utils": "^4.0",
-		"nette/finder": "^2.5"
+		"nette/utils": "^4.0"
 	},
 	"suggest": {
 		"kdyby/doctrine-magic-accessors": "Fast-prototyping magic accessors trait for Doctrine entities",
